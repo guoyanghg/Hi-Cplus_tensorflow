@@ -5,8 +5,8 @@ Author github page
 
 ## Configuration
 
-1. Copy this repo directly to the pycharm project folder
-2. File->open 
+Copy this repo directly to the pycharm project folder
+File->open 
 
 ## Input of training data
 

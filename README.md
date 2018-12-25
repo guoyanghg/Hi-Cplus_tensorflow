@@ -16,7 +16,6 @@ https://github.com/zhangyan32/HiCPlus
 ## Installing
 
 * Copy this repo directly to the PyCharm project folder
-
 * File->open 
 
 ## Input of training data

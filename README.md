@@ -9,7 +9,12 @@ The author's github page：
 
 https://github.com/zhangyan32/HiCPlus
 
-## Configuration
+## Prerequisites
+* PyCharm: https://www.jetbrains.com/pycharm/download/#section=windows
+* Python 3.5.2: https://www.python.org/downloads/release/python-352/
+* Tensorflow 1.1.0
+
+## Installing
 
 * Copy this repo directly to the PyCharm project folder
 

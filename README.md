@@ -29,3 +29,5 @@ Please make your own training data according to the needs of the original paper.
 Path parameters are in the predict.py file
 
 ## References
+
+Zhang Y, An L, Xu J, Zhang B, Zheng WJ, Hu M, Tang J, Yue F. Enhancing hi-C data resolution with deep convolutional neural network HiCPlus. Nat Commun. 2018;9(1):750.

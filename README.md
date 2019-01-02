@@ -26,7 +26,7 @@ Please make your own training data according to the needs of the original paper.
 
 ## Result output
 
-Path parameters are in the predict.py file
+Path parameters are in the `predict.py` file
 
 ## References
 
